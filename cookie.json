@@ -1,0 +1,52 @@
+{
+    "fps": 30.0,
+    "background_image": "images/background_img.jpeg",
+    "scale_w": 0.4515625,
+    "scale_h": 0.189453125,
+    "road_image": "images/bing_road_img.png",
+    "sat_points": [
+        [
+            482.5,
+            212
+        ],
+        [
+            563.5,
+            252
+        ],
+        [
+            337.5,
+            281
+        ],
+        [
+            232.5,
+            255
+        ]
+    ],
+    "cam_points": [
+        [
+            458.5,
+            186
+        ],
+        [
+            453.5,
+            254
+        ],
+        [
+            271.5,
+            156
+        ],
+        [
+            285.5,
+            142
+        ]
+    ],
+    "coords": [
+        33.57129669189453,
+        36.23469543457031,
+        33.57215881347656,
+        36.23779296875
+    ],
+    "sat_image": "images/bing_sat_img.png",
+    "ppm": 0.8403361344537815,
+    "video": "videos/New video.mp4"
+}
